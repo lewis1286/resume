@@ -1,2 +1,2 @@
 # resume
-Find my resume here, comiple with XeLatex
+Find my resume here, compile with XeLatex
